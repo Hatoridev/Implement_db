@@ -1,6 +1,6 @@
 # Implement_db
 
-Repository with small examples of Database Administration and manipulation using SQL and Python.
+Repository with small examples of Implementing Databases using SQLite, some in conjunction with Python.
 
 ## How to Run
 
@@ -28,7 +28,7 @@ Repository with small examples of Database Administration and manipulation using
 
 5. **Run the Python scripts to manipulate the data**:
    ```bash
-   python populate_logistica.py
+   python access_roles.py
    ```
 
 6. **To view the database**:
@@ -63,7 +63,7 @@ Repository with small examples of Database Administration and manipulation using
 
 6. **Run the Python scripts to manipulate the data**:
    ```bash
-   python populate_logistica.py
+   python access_roles.py
    ```
 
 ### Debian/Linux:
@@ -89,7 +89,7 @@ Repository with small examples of Database Administration and manipulation using
 
 4. **Run the Python scripts to manipulate the data**:
    ```bash
-   python3 populate_logistica.py
+   python3 access_roles.py
    ```
 
 ## Languages
@@ -104,5 +104,3 @@ Repository with small examples of Database Administration and manipulation using
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite logo" />
 </div>
-
----
